@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/art.luvr/static/css/main.e9fa643f.chunk.css",
+    "main.js": "/art.luvr/static/js/main.8dfac6d9.chunk.js",
+    "main.js.map": "/art.luvr/static/js/main.8dfac6d9.chunk.js.map",
+    "runtime-main.js": "/art.luvr/static/js/runtime-main.eecbc0dd.js",
+    "runtime-main.js.map": "/art.luvr/static/js/runtime-main.eecbc0dd.js.map",
+    "static/js/2.46621b9b.chunk.js": "/art.luvr/static/js/2.46621b9b.chunk.js",
+    "static/js/2.46621b9b.chunk.js.map": "/art.luvr/static/js/2.46621b9b.chunk.js.map",
+    "index.html": "/art.luvr/index.html",
+    "precache-manifest.b8be25df41bdf80197d1634c5c6e9b4c.js": "/art.luvr/precache-manifest.b8be25df41bdf80197d1634c5c6e9b4c.js",
+    "service-worker.js": "/art.luvr/service-worker.js",
+    "static/css/main.e9fa643f.chunk.css.map": "/art.luvr/static/css/main.e9fa643f.chunk.css.map",
+    "static/js/2.46621b9b.chunk.js.LICENSE.txt": "/art.luvr/static/js/2.46621b9b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/art.luvr/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eecbc0dd.js",
+    "static/js/2.46621b9b.chunk.js",
+    "static/css/main.e9fa643f.chunk.css",
+    "static/js/main.8dfac6d9.chunk.js"
+  ]
+}
